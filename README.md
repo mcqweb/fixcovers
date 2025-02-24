@@ -1,7 +1,7 @@
 # Fix Covers
 KUAL extension to fix missing covers of sideloaded books on Kindle
 
-Requires Jailbroken Kindle
+Requires Jailbroken Kindle, KUAL & Python 3 installed
 
 Reads db directly
 If cover is missing or too small to be a "real" cover it will:
