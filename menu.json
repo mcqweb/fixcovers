@@ -1,0 +1,30 @@
+{
+	"items": [
+	{
+		"name": "Fix Covers",
+		"priority": -99,
+		"items": [
+		{
+            "name": "Fix Covers", 
+            "priority": 1, 
+            "action": "bin/fix.sh",
+            "exitmenu": false
+		},
+		{
+            "name": "Show Cover Names", 
+            "priority": 2, 
+            "action": "bin/fix.sh",
+			"params": "show",
+            "exitmenu": false
+		},
+		{
+            "name": "Show Log File", 
+            "priority": 2, 
+            "action": "more",
+			"params": "/mnt/base-us/fixcovers.log",
+            "exitmenu": false
+		}
+		]
+	}
+	]
+}
