@@ -9,3 +9,5 @@ If cover is missing or too small to be a "real" cover it will:
  * if no local cover is found it will download the first match on open library for title and author
 
 Log file in base kindle folder
+
+To Run, simply place this entire folder in the extensions folder and then launch KUAL and pick Fix Covers > Fix Covers
